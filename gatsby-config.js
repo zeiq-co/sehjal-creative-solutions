@@ -17,8 +17,7 @@ module.exports = {
         path: `./src/data/`,
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
+  
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
