@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Crafty Co | Web Development`,
+    title: `Sehjal Creative Solutions`,
     titleTemplate: "%s",
     description: `We're on a mission to make the web beautiful.`,
     image: "/logo.png",
@@ -17,7 +17,7 @@ module.exports = {
         path: `./src/data/`,
       },
     },
-  
+
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

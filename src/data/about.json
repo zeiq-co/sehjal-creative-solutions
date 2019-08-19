@@ -3,7 +3,7 @@
     "__comments": "These are some comments",
     "title": "Who We Are",
     "description": "Welcome to our company website",
-    "text": "We're on a mission to make the web beautiful. Through our passion for web design & development, we're meeting our goal one client at a time.",
+    "text": "With our top of the line execution & as an innovative team we take a broad way to deal with handling the important issues of development and design in this digitally aware world. We use latest technologies and tools to ensure perfect satisfaction to clients.",
     "subtitle": "THE TEAM",
     "name_icon": "images/name.svg",
     "title_icon": "images/title.svg",
@@ -11,18 +11,39 @@
     "twitter_icon": "images/twitter.svg",
     "team_members": [
       {
-        "name": "Max Mustard",
-        "title": "Backend / Marketing",
+        "name": "Perminder Klair",
+        "title": "Founder / CEO",
         "email": "max@crafty.co",
-        "twitter": "@Max_Mustard",
+        "twitter": "@pinku1",
         "image": "images/man.svg"
       },
       {
-        "name": "Joe Squishy",
-        "title": "Frontend / Design",
+        "name": "Nasim Akhtar",
+        "title": "Full Stack / Developer",
         "email": "joe@crafty.co",
-        "twitter": "@Joe_Squishy",
+        "twitter": "@devnasim",
         "image": "images/man2.svg"
+      },
+      {
+        "name": "Gagan Saini",
+        "title": "React developer & designer",
+        "email": "joe@crafty.co",
+        "twitter": "@gagansaini1212",
+        "image": "images/man2.svg"
+      },
+      {
+        "name": "Sourav Arya",
+        "title": "React Developer",
+        "email": "joe@crafty.co",
+        "twitter": "@Souravarya4u",
+        "image": "images/man2.svg"
+      },
+      {
+        "name": "Balwinder Klair",
+        "title": "Social / Marketing Analyst",
+        "email": "max@crafty.co",
+        "twitter": "@pinku1",
+        "image": "images/man.svg"
       }
     ]
   }
