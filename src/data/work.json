@@ -25,13 +25,13 @@
       },
       {
         "name": "Zeiq",
-        "image": "images/freedom.png",
+        "image": "images/goldenrose.png",
         "description": "Hi! We're ZEIQ. A full service digital agency which helps your brand stand out. Checkout our work The web development process includes web design, web content development, client-side/server-side scripting and network security configuration, among other tasks.",
         "completed": "Spring 2016"
       },
       {
         "name": "DEXLAB",
-        "image": "images/freedom.png",
+        "image": "images/hipster.png",
         "description": "Dexlab is a france based company which provides online wallet for cryptocurrency. They deal in Ethereum. It has a very transparent and safe mode of saving your valuable currency.",
         "completed": "Spring 2017"
       }

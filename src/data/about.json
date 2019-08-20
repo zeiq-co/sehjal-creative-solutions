@@ -15,35 +15,42 @@
         "title": "Founder / CEO",
         "email": "max@crafty.co",
         "twitter": "@pinku1",
-        "image": "images/man.svg"
+        "image": "images/perminder.jpeg"
       },
       {
         "name": "Nasim Akhtar",
         "title": "Full Stack / Developer",
         "email": "joe@crafty.co",
         "twitter": "@devnasim",
-        "image": "images/man2.svg"
+        "image": "images/nasim.jpeg"
       },
       {
         "name": "Gagan Saini",
-        "title": "React developer & designer",
+        "title": "Blockchain Developer",
         "email": "joe@crafty.co",
         "twitter": "@gagansaini1212",
-        "image": "images/man2.svg"
+        "image": "images/gagan.jpeg"
       },
       {
         "name": "Sourav Arya",
         "title": "React Developer",
-        "email": "joe@crafty.co",
+        "email": "sourav@zeiq.co",
         "twitter": "@Souravarya4u",
-        "image": "images/man2.svg"
+        "image": "images/sourav.jpg"
+      },
+      {
+        "name": "Vipin Rawat",
+        "title": "designer",
+        "email": "max@crafty.co",
+        "twitter": "@aesthytik",
+        "image": "images/vipin1.jpeg"
       },
       {
         "name": "Balwinder Klair",
         "title": "Social / Marketing Analyst",
         "email": "max@crafty.co",
-        "twitter": "@pinku1",
-        "image": "images/man.svg"
+        "twitter": "@Balwind45670535",
+        "image": "images/bal1.jpg"
       }
     ]
   }
