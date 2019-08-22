@@ -38,7 +38,7 @@ class IndexPage extends Component {
           }
           style={{
             backgroundImage: `url(${item.image})`,
-            backgroundSize: "100%",
+            backgroundSize: "cover",
           }}
         ></div>
       )

@@ -8,27 +8,33 @@
     "home_items": [
       {
         "name": "Packrs",
-        "image": "images/goldenrose.png",
+        "image": "images/packrs.png",
         "description": "With the largest on-demand network in the industry, you can explore your city, find its hidden hotspots, and watch as we bring your new favorites right to your door. Able to deliver anything from anywhere, Packrs is the food delivery, grocery delivery, whatever-you-can-think-of delivery app to bring what you crave right to your door.",
         "completed": "Summer 2019"
       },
       {
         "name": "Jslsingh",
-        "image": "images/hipster.png",
+        "image": "images/JslScreenshot.png",
         "description": "JSL aka Jaspal Singh, is an Indian music director and singer from New Delhi, India. His track “Paranda” was Mega Hit, which made him famous. He started his Musical Journey with underground remix mixtapes in the early 2000s but due to lack of family support he left music and started assisting his dad in their family business, after a 2-year gap he decided to pursue his dreams to be a Music Director.",
         "completed": "Summer 2015"
       },
       {
         "name": "listme-app",
-        "image": "images/freedom.png",
+        "image": "images/ListmeScreenshot.png",
         "description": "ListMe is an event social networking service for brands to build & engage with their followers, a seamless virtual door with a cashless feature to accommodate the change in user behaviour.",
         "completed": "Spring 2019"
       },
       {
         "name": "Zeiq",
-        "image": "images/freedom.png",
+        "image": "images/ZeiqScreenshot.png",
         "description": "Hi! We're ZEIQ. A full service digital agency which helps your brand stand out. Checkout our work The web development process includes web design, web content development, client-side/server-side scripting and network security configuration, among other tasks.",
         "completed": "Spring 2016"
+      },
+      {
+        "name": "DEXLAB",
+        "image": "images/DaxScreenshot.png",
+        "description": "Dexlab is a france based company which provides online wallet for cryptocurrency. They deal in Ethereum. It has a very transparent and safe mode of saving your valuable currency.",
+        "completed": "Spring 2017"
       }
     ]
   }
