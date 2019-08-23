@@ -3,8 +3,8 @@ module.exports = {
     title: `Sehjal Creative Solutions`,
     titleTemplate: "%s",
     description: `We're on a mission to make the web beautiful.`,
-    image: "/logo.png",
-    twitterUsername: "@Simplecodehq",
+    image: "/slogo.png",
+    twitterUsername: "@Zeiqofficial",
     siteUrl: "https://demos.simplecode.io/gatsby/crafty",
   },
   plugins: [

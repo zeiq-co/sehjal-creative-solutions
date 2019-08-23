@@ -4,9 +4,9 @@ class Footer extends Component {
   render() {
     return (
       <footer className="footer">
-        <a href="https://simplecode.io" className="footer-text">
+        <a href="/" className="footer-text">
           © {new Date().getFullYear()}
-          {` `} Simplecode. All rights reserved.
+          {` `} Sehjal Creative Solutions.
         </a>
       </footer>
     )
