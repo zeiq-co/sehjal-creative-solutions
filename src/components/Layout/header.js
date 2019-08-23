@@ -1,6 +1,6 @@
 import React, { Component } from "react"
 import { Link } from "gatsby"
-import logo from "../../images/logo-large.svg"
+import logo from "../../images/slogo.png"
 import menuIcon from "../../images/menu.svg"
 
 class Header extends Component {
@@ -19,7 +19,7 @@ class Header extends Component {
           <img src={menuIcon} alt="Menu" className="menu-icon"></img>
         </button>
         <div
-          class="sidebar-inner"
+          className="sidebar-inner"
           style={{ display: "none" }}
           id="sidebar"
           onClick={this.closeSidebar}
