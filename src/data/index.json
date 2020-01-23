@@ -35,6 +35,18 @@
         "image": "images/DaxScreenshot.png",
         "description": "Dexlab is a france based company which provides online wallet for cryptocurrency. They deal in Ethereum. It has a very transparent and safe mode of saving your valuable currency.",
         "completed": "Spring 2017"
+      },
+      {
+        "name": "BeStylish Salon",
+        "image": "images/bestylish-home.png",
+        "description": "Be-Stylish Salon is founded by Rajveer Makeovers who is renowned for his expertise in every beauty field. He is a humble and very dedicated person, passionate about his work and bringing smiles on the faces of brides, and every women who wants to look good. Be Stylish Salon provides a lot of services and specializes in Hair Care, Beauty Care, Skin Care, and all Makeup Services in their Salon. You can make an appointment for the meet or do booking. You can book online for makeover for wedding or party.",
+        "completed": "Spring 2017"
+      },
+      {
+        "name": "Sejal Suits",
+        "image": "images/sejal-suits.png",
+        "description": "Sejal Suits is UK’s leading online punjabi clothing shopping store showcasing the designer collection of fancy punjabi suits, latest salwar kameez designs, party wear dresses, traditional embroidered punjabi suit, casual wear printed suits, & much more at low prices with free shipping in discount sale. Whether it’s an anniversary, wedding, sangeet function, reception party, kitty party, you'll get wide variety of punjabi ethnic wear fashion for all occasions and festivals at Sejal Suits. Keeping in mind user experience and perspective you can get all these apparels which are fully customisable and fashionable.",
+        "completed": "Spring 2017"
       }
     ]
   }
