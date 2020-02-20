@@ -34,6 +34,30 @@
         "image": "images/DaxScreenshot.png",
         "description": "Dexlab is a france based company which provides online wallet for cryptocurrency. They deal in Ethereum. It has a very transparent and safe mode of saving your valuable currency.",
         "completed": "Spring 2017"
+      },
+      {
+        "name": "FoodBucket",
+        "image": "images/foodbucket.png",
+        "description": "FoodBucket Waiter app allows waiter to take orders by simply selecting food categories and items with zero complexity.Customer can view the menu and place table top orders and the staff can deliver order to the table and collect payment once done. This mode is for bars and restaurants who like to adapt a work flow model with minimum staff and faster service.Get access to advance set of reports which cover sales, purchases, inventory, profit and loss statements. etc, which can be generated on daily. weekly. monthly. quarterly, semi-annually and annually basis.",
+        "completed": "Spring 2017"
+      },
+      {
+        "name": "Boomaro",
+        "image": "images/boomaro.png",
+        "description": "",
+        "completed": "Spring 2019"
+      },
+      {
+        "name": "Zeiq Academy",
+        "image": "images/zeiq.png",
+        "description": "Seeking to learn web development? With our top of the line execution & as an innovative team we take a broad way to deal with handling the important issues of development and design in this digitally aware world. We will teach latest technologies and tools to ensure perfect satisfaction.",
+        "completed": "Spring 2019"
+      },
+      {
+        "name": "ClipBucket",
+        "image": "images/ClipBucket.png",
+        "description": "Seeking to learn web development? With our top of the line execution & as an innovative team we take a broad way to deal with handling the important issues of development and design in this digitally aware world. We will teach latest technologies and tools to ensure perfect satisfaction.",
+        "completed": "Spring 2019"
       }
     ]
   }

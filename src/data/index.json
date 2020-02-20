@@ -47,6 +47,42 @@
         "image": "images/sejal-suits.png",
         "description": "Sejal Suits is UK’s leading online punjabi clothing shopping store showcasing the designer collection of fancy punjabi suits, latest salwar kameez designs, party wear dresses, traditional embroidered punjabi suit, casual wear printed suits, & much more at low prices with free shipping in discount sale. Whether it’s an anniversary, wedding, sangeet function, reception party, kitty party, you'll get wide variety of punjabi ethnic wear fashion for all occasions and festivals at Sejal Suits. Keeping in mind user experience and perspective you can get all these apparels which are fully customisable and fashionable.",
         "completed": "Spring 2017"
+      },
+      {
+        "name": "FoodBucket",
+        "image": "images/foodbucket.png",
+        "description": "FoodBucket Waiter app allows waiter to take orders by simply selecting food categories and items with zero complexity.Customer can view the menu and place table top orders and the staff can deliver order to the table and collect payment once done. This mode is for bars and restaurants who like to adapt a work flow model with minimum staff and faster service.Get access to advance set of reports which cover sales, purchases, inventory, profit and loss statements. etc, which can be generated on daily. weekly. monthly. quarterly, semi-annually and annually basis.",
+        "completed": "Spring 2017"
+      },
+      {
+        "name": "Boomaro",
+        "image": "images/boomaro.png",
+        "description": "",
+        "completed": "Spring 2019"
+      },
+      {
+        "name": "Smart Home Devices",
+        "image": "images/smart-home-devices.png",
+        "description": "Purchase all kind of smart home devices and TVs.",
+        "completed": "Spring 2019"
+      },
+      {
+        "name": "LuxuryLimoLand",
+        "image": "images/luxury-limo-land.png",
+        "description": "Best Luxury Cars Rental in the jalandhar. Whether you’re cruising in an economy, SUV, luxury vehicle, or minivan, there’s nothing holding you back from finding the perfect car for your needs. With no booking or credit card fees, you get great deals, too.. We use all our experience — and the experiences of millions of our customers — to bring you the car you need and the quality of service you want. Always at the best price.",
+        "completed": "Spring 2019"
+      },
+      {
+        "name": "Commbus",
+        "image": "images/commbus.jpg",
+        "description": "Commbus was formed in 1999 by its directors who, having worked together on several individual projects decided to combine their expertise together to provide a high quality professional service with individual solutions designed exactly to our clients specifications.",
+        "completed": "Spring 2019"
+      },
+      {
+        "name": "KP Digital",
+        "image": "images/kp-digital.png",
+        "description": "KP Digital Strategy are an experienced team of designers and marketeers who design purposeful brands and implement informed marketing strategies driven by customer decisions and behaviour. Unafraid of data & analytics our results are transparent. We are passionate problem solvers who define objectives, pinpoint challenges and above all else are on your side celebrating your every win.",
+        "completed": "Spring 2019"
       }
     ]
   }
